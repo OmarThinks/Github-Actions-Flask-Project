@@ -1,4 +1,4 @@
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/OmarThinks/Github-Actions-Flask-Project/Python%20application)
+[![Python application](https://github.com/OmarThinks/Github-Actions-Flask-Project/actions/workflows/python-app.yml/badge.svg)](https://github.com/OmarThinks/Github-Actions-Flask-Project/actions/workflows/python-app.yml)
 
 # Github-Actions-Flask-Project
 A Flask Project using Github Actions
